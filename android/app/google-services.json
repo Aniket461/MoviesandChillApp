@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242087956667",
+    "firebase_url": "https://moviesandchill-b1ca4.firebaseio.com",
+    "project_id": "moviesandchill-b1ca4",
+    "storage_bucket": "moviesandchill-b1ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242087956667:android:c660b83f3de90b788e199e",
+        "android_client_info": {
+          "package_name": "com.example.httptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242087956667-7vlsp9kbbebe5ek9hi10u5pinu94amva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.httptest",
+            "certificate_hash": "0feb7049a09c9c590b35cbe1be816577c24bafb8"
+          }
+        },
+        {
+          "client_id": "242087956667-af6qs92ot59cuaef2qanro7l3abbqsga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQOxTsIEQUTZnUnw6zFAM-8Qwfa6IGAJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242087956667-af6qs92ot59cuaef2qanro7l3abbqsga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
